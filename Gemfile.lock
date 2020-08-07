@@ -288,7 +288,8 @@ GEM
       kaminari-core (~> 1.0)
       mongoid
     kgio (2.11.2)
-    kramdown (1.17.0)
+    kramdown (2.3.0)
+      rexml
     levenshtein (0.2.2)
     libv8 (3.16.14.19)
     link_header (0.0.8)
@@ -465,6 +466,7 @@ GEM
     rdoc (6.1.1)
     ref (2.0.0)
     regexp_parser (1.6.0)
+    rexml (3.2.4)
     rly (0.2.3)
     rmagick (2.16.0)
     romaji (0.2.4)
